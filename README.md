@@ -1,43 +1,82 @@
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5636D3&labelColor=0A1033">
 
  <img src="https://img.shields.io/static/v1?label=Ignite&message=ReactNative&color=5636D3&labelColor=0A1033" alt="NLW 06" />
 </p>
 
-
+<div align="center">
+<h1>Em desenvolvimento - 🧑‍💻🚧⚙️</h1>
+</div>
 
 
 <img alt="gif-cell" src="https://github.com/FabricioAllves/RocketHelp/blob/main/src/assets/LogoReadme.png">
 
 
-Em desenvolvimento
-<!-- ## 💻 Projeto
-Aplicativo para fazer organizaçao, separando por turma podendo criar varios grupos e dentro criar players/usuarios alocando cada um em salas/times diferentes.
+## 💻 Projeto
+<!-- OQUE E´? -->
+Aplicativo com proposta de Help-Desk para fazer solicitações e chamados
 
 
+<!-- QUAIS TECNOLOGIA USEI? -->
+## ✨ Tecnologias e bibliotecas utilizadas
+
+- [ ] React Native - Expo
+- [ ] Native Base
+- [ ] Typescript
+- [ ] Firebase
+
+
+
+<!-- QUAL É O PROBLEMA QUE ESSE PROJETO RESOLVE E OQUE ELE FAZ? -->
 ## :hammer_and_wrench: Features 
 
-- [ ] Criar turma / Deletar turma e/ou Players 
+- [ ] Autenticação de usuarios
+- [ ] Edição no cadastro do usuario pelo perfil podendo alterar foto do mesmo
+- [ ] Fazer solicitações
+- [ ] Receber e finalizar uma solicitação
+- [ ] Listar por solicitações finalizadas e em andamento
 
 
-## ✨ Tecnologias
+## ♨️ Desafios e aprendizados durante o desenvolvimento
+- Fazer uma estrutura de projeto usando os conceitos de **Design System**.
+- Reforcei o conhecimento com base no que aprendi em outros projetos e pude aplicar meu conhecimento com **typescript**.
+- Utilizar a biblioteca do **Native Base** para usar componentes já prontos e tambem a personalizar os mesmos.
 
-- [ ] React Native
-- [ ] Styled-components
-- [ ] Typescript
 
-## Executando o projeto
 
-Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
-Em seguida, inicie o projeto.
 
-```cl
-yarn start
+## ⚙️ Executando o projeto
+Com o repositorio já clonado em sua maquina e gerenciador de pacotes de sua preferência, **yarn** ou **npm**, instale as dependências do projeto e inicie o mesmo com os comando abaixo: 
+
+
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/FabricioAllves/RocketHelp.git
+
+# Entre no repositório
+$ cd Ignite_Teams
+
+# Com NPM
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm start
+
+# Com YARN
+# Instale as dependências
+$ yarn install
+
+# Execute a aplicação
+$ yarn start
 ```
-(se estiver no Linux e for rodar no android)
-```cl
-yarn android
-```
+
+
+
+
+
 
 ## 📄 Licença
 
@@ -47,6 +86,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 <div align="center">
   <small>Desenvolvido por Fabricio Henrique</small>
-
-  <!-- [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/thiago-furtado-silva/)  -->
-<!-- </div> --> 
+</div>
