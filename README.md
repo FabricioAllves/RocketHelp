@@ -47,7 +47,9 @@ Aplicativo com proposta de Help-Desk para fazer solicitações e chamados
 
 
 ## ⚙️ Executando o projeto
-Com o repositorio já clonado em sua maquina e gerenciador de pacotes de sua preferência, **yarn** ou **npm**, instale as dependências do projeto e inicie o mesmo com os comando abaixo: 
+Pré requisitos para rodar o projeto:
+- Node.js (LTS) instalado na maquina
+- Gerenciador de pacote NPM ou YARN
 
 
 
@@ -56,7 +58,7 @@ Com o repositorio já clonado em sua maquina e gerenciador de pacotes de sua pre
 $ git clone https://github.com/FabricioAllves/RocketHelp.git
 
 # Entre no repositório
-$ cd Ignite_Teams
+$ cd RocketHelp
 
 # Com NPM
 # Instale as dependências
